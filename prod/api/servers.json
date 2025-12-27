@@ -1,16 +1,9 @@
 {
     "version": 1,
     "players_today": 164,
-    "1": {
-        "serverid": "8",
-        "name": "ONLINE RP | 01 | CALIFORNIA",
-        "players": 182,
-        "max_players": 1000,
-        "bonus": 3
-    },
     "2": {
         "serverid": 2,
-        "name": "ONLINE RP | 02 | FLORIDA",
+        "name": "ONLINE RP | 02 | ALGERIA",
         "players": 66,
         "max_players": 1000,
         "bonus": 3
