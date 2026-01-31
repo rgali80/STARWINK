@@ -2,8 +2,8 @@
   "hosts": {
     "1": [
       {
-        "ip": "95.213.255.226:7777",
-        "name": "TEXAS_SERVER",
+        "ip": "188.165.192.24:4781",
+        "name": "TEST_SERVER",
         "color": "13A5D7"
       },
       {
