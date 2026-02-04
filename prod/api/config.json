@@ -2,12 +2,12 @@
   "config_version": 1,
   "msgs": [],
   "apk": {
-    "version": 658,
+    "version": 604,
     "str": "4.15.4",
-    "path": "apk/658/658.apk",
+    "path": "apk/604/604.apk",
     "auto_update": true,
     "manual_update": false,
-    "manual_update_url": "apk/658/658.apk"
+    "manual_update_url": "apk/604/604.apk"
   },
   "urls": {
     "URL_HOST": "https://download.cdnonlinerp.com/ONLINERP/prod/files/",
