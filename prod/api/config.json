@@ -2,9 +2,9 @@
   "config_version": 1,
   "msgs": [],
   "apk": {
-    "version": 604,
+    "version": 657,
     "str": "4.15.7",
-    "path": "apk/604/604.apk",
+    "path": "apk/657/657.apk",
     "auto_update": true,
     "manual_update": false,
     "manual_update_url": "apk/604/604.apk"
