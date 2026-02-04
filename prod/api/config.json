@@ -2,9 +2,9 @@
   "config_version": 1,
   "msgs": [],
   "apk": {
-    "version": 604,
+    "version": 658,
     "str": "4.15.4",
-    "path": "apk/604/604.apk",
+    "path": "apk/658/658.apk",
     "auto_update": true,
     "manual_update": false,
     "manual_update_url": "https://onlinerp.me/NEW"
