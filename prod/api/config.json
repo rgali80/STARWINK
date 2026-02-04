@@ -16,12 +16,12 @@
     "URL_HELP": "help.json",
     "URL_ONLINE_API": "https://raw.githubusercontent.com/rgali80/STARWINK/main/prod/api/servers.json",
     "URL_DONATE_API": "https://api.gta-mobile.ru/oldAPI/donate_api.php",
-    "URL_SITE": "https://www.speedtest.net/",
+    "URL_SITE": "https://gta-mobile.ru/",
     "URL_VK": "https://discord.gg/thTM8byvPw",
     "URL_YOUTUBE": "https://www.youtube.com/channel/UCCzB4ySWiZfRvApMU2CTfEA",
     "URL_INSTAGRAM": "https://www.instagram.com/online_samp",
     "URL_SUPPORT": "https://vk.me/android_client",
     "URL_TELEGRAM": "https://t.me/onlinerp_channel",
-    "URL_SHOP": ""
+    "URL_SHOP": "https://gta-mobile.ru/donate"
   }
 }
