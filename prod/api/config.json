@@ -11,7 +11,7 @@
   },
   "urls": {
     "URL_HOST": "https://download.cdnonlinerp.com/ONLINERP/prod/files/",
-    "URL_UPDATE": "https://raw.githubusercontent.com/rgali80/STARWINK/main/prod/api/update%657.json",
+    "URL_UPDATE": "https://raw.githubusercontent.com/rgali80/STARWINK/main/prod/api/update%20657.json",
     "URL_NEWS": "https://raw.githubusercontent.com/rgali80/STARWINK/main/prod/api/news.json",
     "URL_HELP": "help.json",
     "URL_ONLINE_API": "https://raw.githubusercontent.com/rgali80/STARWINK/main/prod/api/servers.json",
