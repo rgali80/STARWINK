@@ -10,7 +10,7 @@
     "manual_update_url": "apk/657/657.apk"
   },
   "urls": {
-    "URL_HOST": "https://download.cdnonlinerp.com/ONLINERP/prod/files/",
+    "URL_HOST": "https://github.com/rgali80/STARWINK/main/prod/api/",
     "URL_UPDATE": "https://raw.githubusercontent.com/rgali80/STARWINK/main/prod/api/update/${version}/update_${version}.json",
     "URL_NEWS": "https://raw.githubusercontent.com/rgali80/STARWINK/main/prod/api/news.json",
     "URL_HELP": "help.json",
